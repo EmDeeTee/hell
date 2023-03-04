@@ -1,0 +1,1 @@
+try (Array.get Sys.argv 1) with Invalid_argument "1" -> print_endline "wtf" "df";; (* Match it with lenght*)
